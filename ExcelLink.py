@@ -54,6 +54,7 @@ for sheet in sheets:
   
         #checking if there is a match
         #The algorithm for searching the filename is created according the need of the developer.
+        #example of a filename for this algorithm is "ARK_123_4567.jpg" and we want to match with "4567"
         
         for filename in os.listdir(sheet_path):
             
