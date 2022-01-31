@@ -2,7 +2,7 @@
 A program to give automatic hyperlinks and thumbnails to an excel file
 
 As a museum professional, I often need to create big excel files with photos and thumbnails. Adding photos
-to a big file with thousands of raws make it so big and slow. I found the solution in creating hyperlinks 
+to a big file with thousands of rows make it so big and slow. I found the solution in creating hyperlinks 
 of the photos.
 
 Program will automaticaly give a link to a photo. It will search a column of your choice sheet by sheet 
